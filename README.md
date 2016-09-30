@@ -10,5 +10,9 @@
         ];
          
      在项目目录下 输入php artisan createmodel  完成 将在app目录底下生成Model文件夹 和数据库所有的表MODEL文件
+     composer 中加载
+         composer require lwy/createmodel dev-master
+
+
 
   
