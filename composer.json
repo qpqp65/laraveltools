@@ -10,7 +10,7 @@
 
   },
     "psr-4": {
-      "laraveltools\\": "/"
+      "createmodel\\": "/"
     }
   }
 
