@@ -10,7 +10,7 @@
 
   },
     "psr-4": {
-      "createmodel\\": "/"
+      "lwy\\createmodel\\": "src/"
     }
   }
 
